@@ -1,1 +1,1 @@
-# yellow-bank
+# Yellow Bank
